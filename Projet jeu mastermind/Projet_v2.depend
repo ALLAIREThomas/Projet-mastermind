@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1736893403 source:c:\users\thoma\onedrive\documents\projet_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	"save.h"
+
+1736893849 source:c:\users\thoma\onedrive\documents\projet_v2\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+	"jeu.h"
+
+1736893848 c:\users\thoma\onedrive\documents\projet_v2\save.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1736893208 source:c:\users\thoma\onedrive\documents\projet_v2\jeu.c
+	"jeu.h"
+	"save.h"
+
+1736893211 c:\users\thoma\onedrive\documents\projet_v2\jeu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
